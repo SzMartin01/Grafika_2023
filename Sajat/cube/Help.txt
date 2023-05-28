@@ -1,0 +1,1 @@
+Ez a program egy szobát jelenít meg, melyben egy macska található, ami csóválja a farkát. "WASD" billenytsűk és a kamera mozgatásával lehet mozogni, illetve a szobát nem lehet elhagyni. "O" "L" billenytsűk lenyomáával lehet a fényerőt állítani.

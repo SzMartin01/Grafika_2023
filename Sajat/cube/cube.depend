@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1684179878 source:c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\app.c
+	"app.h"
+	<SDL2/SDL_image.h>
+
+1683555672 c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\app.h
+	"camera.h"
+	"scene.h"
+	<SDL2/SDL.h>
+	<stdbool.h>
+
+1683555715 c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\camera.h
+	"utils.h"
+	<stdbool.h>
+
+1683555869 c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\utils.h
+
+1684265194 c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\scene.h
+	"camera.h"
+	"texture.h"
+	<obj/model.h>
+
+1683555824 c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\texture.h
+	<GL/gl.h>
+
+1684176502 source:c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\camera.c
+	"camera.h"
+	<GL/gl.h>
+	<math.h>
+
+1683555899 source:c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\main.c
+	"app.h"
+	<stdio.h>
+
+1684265194 source:c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\scene.c
+	"scene.h"
+	<obj/load.h>
+	<obj/draw.h>
+
+1683556038 source:c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\texture.c
+	"texture.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1683556063 source:c:\users\szmar\onedrive\asztali gép\grafika\cube\cube\utils.c
+	"utils.h"
+	<math.h>
+
+1684772714 source:c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\app.c
+	"app.h"
+	<SDL2/SDL_image.h>
+
+1683555672 c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\app.h
+	"camera.h"
+	"scene.h"
+	<SDL2/SDL.h>
+	<stdbool.h>
+
+1683555715 c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\camera.h
+	"utils.h"
+	<stdbool.h>
+
+1683555869 c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\utils.h
+
+1684839805 c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\scene.h
+	"camera.h"
+	"texture.h"
+	<obj/model.h>
+
+1683555824 c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\texture.h
+	<GL/gl.h>
+
+1684772508 source:c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\camera.c
+	"camera.h"
+	<GL/gl.h>
+	<math.h>
+
+1683555899 source:c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\main.c
+	"app.h"
+	<stdio.h>
+
+1684995618 source:c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\scene.c
+	"scene.h"
+	<obj/load.h>
+	<obj/draw.h>
+
+1683556038 source:c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\texture.c
+	"texture.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1683556063 source:c:\users\szmar\onedrive\asztali gép\grafika\sajat\cube\utils.c
+	"utils.h"
+	<math.h>
+
